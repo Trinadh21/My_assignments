@@ -1,0 +1,21 @@
+li
+{
+	border-top: 2px solid black;
+	background-color: white;
+}
+.spe
+{
+	border-bottom: 2px solid black;
+}
+#padd
+{
+	padding : 0px;
+}
+.navbar-brand
+{
+	padding-left: 20px;
+}
+#main
+{
+	padding: 50px;
+}
