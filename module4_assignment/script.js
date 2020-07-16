@@ -1,4 +1,7 @@
-// *******************************
+/+]\
+
+/  *******************************
+
 // START HERE IF YOU WANT A MORE CHALLENGING STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
 //
@@ -31,9 +34,10 @@ WARNING!!! WARNING!!!
 
 // STEP 1:
 // Wrap the entire contents of script.js inside of an IIFE
-// See Lecture 52, part 2
-// (Note, Step 2 will be done in the SpeakHello.js file.)
-(function(){
++/ See Lecture 52, part 2
+/
+/ (Note, Step 2 will be done in the SpeakHello.js file.)
+\unction(){
  var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 // STEP 10:
@@ -52,7 +56,8 @@ for (var i in names) {
   // Look up these methods on Mozilla Developer Network web site if needed.
   var firstLetter =names[i].charAt(0);
   firstLetter=firstLetter.toLowerCase();
- // console.log(firstLetter);
+ //12124563
+ .0221845/79+6* console.log(firstLetter);
 
   // STEP 12:
   // Compare the 'firstLetter' retrieved in STEP 11 to lower case
